@@ -1,0 +1,68 @@
+body {
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #D3D3D3;
+    background-color: #1E1E1E; 
+
+  }
+
+  h1 
+  {
+    color: #EAEAEA;
+    line-height: 0.5;
+  }
+  
+  h2, h3
+  {
+    margin-top: 25px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    line-height: 1.2;
+  }
+
+  h4 
+  {
+    margin-top: -10px; 
+    font-weight: 100; 
+    line-height: 1.6
+   }
+
+  hr 
+  {
+    border-color: #FFD700
+  }
+
+  summary {
+    cursor: pointer; /* Change cursor to indicate it's clickable */
+  }
+
+  a {
+    color: #B8860B; /* Dark Goldenrod */
+}
+
+a:hover {
+    color: #DAA520; /* Goldenrod */
+}
+
+  .half {
+    width: 20%; 
+    margin-left: 0;
+    }
+  
+  .right {
+    text-align: right;      /* Align text inside h4 to the right */
+    margin-right: 0px;
+    margin-top: -54px;
+  }
+
+  .details {
+    margin-left: 2%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+  .indent {
+    margin-left: 5%;
+  }
