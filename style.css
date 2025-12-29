@@ -18,7 +18,7 @@ body {
   {
     margin-top: 25px;
     padding-bottom: 0px;
-    margin-bottom: 0px;
+    margin-bottom: -10px;
     line-height: 1.2;
   }
 
@@ -31,7 +31,8 @@ body {
 
   hr 
   {
-    border-color: #FFD700
+    border-color: #FFD700;
+    margin-bottom: -4px;
   }
 
   summary {
