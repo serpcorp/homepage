@@ -52,6 +52,10 @@ a:hover {
     margin-left: 0;
     }
   
+  .bottom {
+  margin-bottom: 0;
+  }
+  
   .right {
     text-align: right;      /* Align text inside h4 to the right */
     margin-right: 0px;
